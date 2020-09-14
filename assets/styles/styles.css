@@ -19,3 +19,15 @@ h2{
     background-color: coral;
     color: white;
 }
+
+i{
+    float: right;
+}
+
+li{
+    border-bottom: 1px solid coral;
+}
+
+.agregar{
+    margin: auto
+}
