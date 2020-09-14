@@ -1,0 +1,21 @@
+li{
+    text-decoration: none;
+    list-style: none;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+}
+
+#todo{
+    border: 2px solid coral;
+    padding: 1em;
+    margin: auto
+}
+
+.button-coral{
+    background-color: coral;
+    color: white;
+}

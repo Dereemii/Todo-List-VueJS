@@ -9,10 +9,10 @@ const app = new Vue({
         todo: "",
     },
     methods:{
-        add_todo: function(){
+        add_todo (){
             if(this.todo != ""){
                 this.todos.push(this.todo)
-                this.todo="";
+                this.todo="";  // Para limpiar el input
             }
         }
     }
